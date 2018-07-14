@@ -73,3 +73,6 @@ yarn-error.log
 *.ntvs*
 *.njsproj
 *.sln
+
+#VS Code files
+.vscode
