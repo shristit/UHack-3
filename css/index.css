@@ -6981,6 +6981,7 @@ section.section.culture {
       section.section.culture .picture figure .hacking {
         top: -2.5rem;
         color: #685ca1;
+        right: 25%;
         background-color: white;
         padding: 0.5rem 0.5rem;
         border-radius: 16px;
