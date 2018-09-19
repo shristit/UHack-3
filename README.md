@@ -1,5 +1,5 @@
-# moz-hack-3
+# UHack 3.0
 
-Website of Moz Hack 3.0
+Website of Uhack 3.0
 
-Moz Hack 3.0 is the 3rd version of Moz Hack , the largest student run hackathon of India 
+UHack 3.0 is the 3rd version of UHack , the largest student run hackathon of India 
